@@ -3,21 +3,19 @@ layout: default
 title: About Me
 ---
 
-# Amalia Bloch
+# Hi, I'm Amalia 👋
 
-Hello! My name is Amalia Bloch.
+I'm a Master's student in Life Sciences at the Weizmann Institute of Science.
 
-I am an MSc student in Life Sciences at the Weizmann Institute of Science.
+I really enjoy biology and research, and I'm currently learning how to use computational tools as part of my studies.
 
-## About Me
+## A little about me
 
-I am interested in biology, research, and computational tools.
+I studied Life Sciences at the Hebrew University of Jerusalem, and now I'm continuing to an MSc at Weizmann.
 
-## Education
+I'm especially interested in understanding how biological systems work at the cellular and molecular level.
 
-- MSc in Life Sciences — Weizmann Institute of Science
-- BSc in Life Sciences — Hebrew University of Jerusalem
+During my BSc I worked on identifying interactions between chaperones and their cofactors in yeast!
 
-## Contact
 
 [My GitHub](https://github.com/amaliawb)
