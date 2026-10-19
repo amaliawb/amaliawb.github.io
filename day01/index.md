@@ -17,5 +17,7 @@ I'm especially interested in understanding how biological systems work at the ce
 
 During my BSc I worked on identifying interactions between chaperones and their cofactors in yeast!
 
+![Photo of me](Python.jpg)
+
 
 [My GitHub](https://github.com/amaliawb)
