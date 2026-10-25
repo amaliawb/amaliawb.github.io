@@ -369,13 +369,6 @@ title: About Me
     </div>
   </section>
 
-  <section class="quote">
-    <p>
-      "The most interesting questions often emerge when we look at
-      familiar biological systems from a new perspective."
-    </p>
-  </section>
-
   <section class="section">
     <p class="section-label">Currently exploring</p>
     <h2>Biology meets code 💻</h2>
