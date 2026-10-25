@@ -13,7 +13,7 @@ title: About Me
   --cream: #faf9f5;
   --ink: #29352f;
   --muted: #69776d;
-  --accent: #b77d55;
+  --accent: #4f8582;
 }
 
 .about-page {
@@ -98,7 +98,7 @@ title: About Me
   max-width: 340px;
   aspect-ratio: 4 / 5;
   object-fit: cover;
-  border-radius: 48% 48% 18px 18px;
+  border-radius: 18px;
   display: block;
   margin: 0 auto;
   background: var(--sage);
@@ -141,7 +141,7 @@ title: About Me
 }
 
 .section-label {
-  color: var(--accent);
+  color: var(--accent) !important;
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -255,7 +255,7 @@ title: About Me
 
   .hero-image {
     order: 0;
-    max-width: 270px;
+    max-width: 300px;
   }
 
   .cards {
@@ -298,7 +298,7 @@ title: About Me
     <div class="hero-image">
       <img class="profile-photo"
            src="{{ '/Python.jpg' | relative_url }}"
-           alt="A photo of Amalia">
+           alt="Python programming">
     </div>
   </section>
 
@@ -311,25 +311,26 @@ title: About Me
         <span class="icon">🧬</span>
         <h3>Molecular biology</h3>
         <p>
-          Understanding the molecular interactions and mechanisms that
-          allow cells to function.
+          I'm fascinated by how cells work, how molecules interact,
+          and how tiny processes shape living systems.
         </p>
       </div>
 
       <div class="info-card">
         <span class="icon">📚</span>
-        <h3>Books</h3>
+        <h3>Books & reading</h3>
         <p>
-          Reading is fun
+          I enjoy reading, discovering new ideas, and learning
+          about the world from different perspectives.
         </p>
       </div>
 
       <div class="info-card">
         <span class="icon">🌊</span>
-        <h3>The beach</h3>
+        <h3>The beach & ocean</h3>
         <p>
-          Learning to use programming, data analysis, and computational
-          methods to explore biological questions.
+          I love going to the beach, enjoying the sea, the sound
+          of the waves, and spending time by the water.
         </p>
       </div>
     </div>
@@ -368,23 +369,32 @@ title: About Me
     </div>
   </section>
 
+  <section class="quote">
+    <p>
+      "The most interesting questions often emerge when we look at
+      familiar biological systems from a new perspective."
+    </p>
+  </section>
+
   <section class="section">
     <p class="section-label">Currently exploring</p>
-    <h2>Learning at the intersection of biology & code</h2>
+    <h2>Biology meets code 💻</h2>
     <p>
-      I'm developing my computational skills alongside my biological
-      background, and am taking this Python with AI course to help push me tyo this goal.
+      I'm building my computational skills alongside my background
+      in biology. I'm currently taking a Python with AI course to
+      learn how programming can help me explore data, solve problems,
+      and approach scientific questions in new ways.
     </p>
     <p>
-      This website is where all my Python assignments will be published.
+      This website is where I'll publish my Python assignments,
+      projects, and things I learn along the way.
     </p>
   </section>
 
   <section class="footer">
     <h2>Let's connect!</h2>
-    <p>
-      Find me on GitHub.
-    </p>
+    <p>Find me on GitHub.</p>
+
     <div class="buttons" style="justify-content: center;">
       <a class="button primary"
          href="https://github.com/amaliawb"
@@ -392,7 +402,10 @@ title: About Me
         GitHub profile ↗
       </a>
     </div>
-    <p style="margin-top: 30px;">Made with curiosity and a love for science 🧬</p>
+
+    <p style="margin-top: 30px;">
+      Made with curiosity and a love for science 🧬
+    </p>
   </section>
 
 </div>
