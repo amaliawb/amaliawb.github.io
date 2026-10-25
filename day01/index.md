@@ -305,12 +305,6 @@ title: About Me
   <section class="section">
     <p class="section-label">What drives me</p>
     <h2>A little about my interests</h2>
-    <p>
-      For me, biology is about connecting the dots: from individual
-      molecules to the behavior of entire cells. I'm particularly interested
-      in exploring biological questions through experimentation, data,
-      and computational tools.
-    </p>
 
     <div class="cards">
       <div class="info-card">
@@ -323,17 +317,16 @@ title: About Me
       </div>
 
       <div class="info-card">
-        <span class="icon">🔬</span>
-        <h3>Research</h3>
+        <span class="icon">📚</span>
+        <h3>Books</h3>
         <p>
-          Asking questions, investigating biological mechanisms, and
-          discovering what experimental data can reveal.
+          Reading is fun
         </p>
       </div>
 
       <div class="info-card">
-        <span class="icon">💻</span>
-        <h3>Computational biology</h3>
+        <span class="icon">🌊</span>
+        <h3>The beach</h3>
         <p>
           Learning to use programming, data analysis, and computational
           methods to explore biological questions.
@@ -375,31 +368,21 @@ title: About Me
     </div>
   </section>
 
-  <section class="quote">
-    <p>
-      "The most interesting questions often emerge when we look at
-      familiar biological systems from a new perspective."
-    </p>
-  </section>
-
   <section class="section">
     <p class="section-label">Currently exploring</p>
     <h2>Learning at the intersection of biology & code</h2>
     <p>
       I'm developing my computational skills alongside my biological
-      background, learning how code can help organize data, reveal patterns,
-      and provide new ways to investigate scientific questions.
+      background, and am taking this Python with AI course to help push me tyo this goal.
     </p>
     <p>
-      This website is a small space to share my journey, projects,
-      and the things I learn along the way.
+      This website is where all my Python assignments will be published.
     </p>
   </section>
 
   <section class="footer">
     <h2>Let's connect!</h2>
     <p>
-      Curious about my work or interested in science and biology?
       Find me on GitHub.
     </p>
     <div class="buttons" style="justify-content: center;">
